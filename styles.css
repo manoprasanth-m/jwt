@@ -44,11 +44,13 @@ body {
     text-shadow: 2px 2px 5px red;
 }
 
+
 #james {
   padding-top: 40px;
+  padding-bottom: 0px;
   position:center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
-  colour: black;
+  font-size: 40px;
+  color: black;
 }
 
